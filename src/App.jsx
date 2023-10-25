@@ -1,7 +1,7 @@
 import Navbar from "./Components/Navbar/Navbar"
-import Home from "./Views/Home/Home"
 import HomePage from "./Views/Home/Home"
 import About from "./Views/About/About"
+import Contact from "./Views/Contact/Contact"
 import { Route, Routes } from "react-router-dom"
 
 const App = () => {
@@ -15,7 +15,11 @@ const App = () => {
         <Route 
          path="/about"
          element={<About />} />
-      </Routes>    </div>
+        <Route
+          path="/contact"
+          element={<Contact />} />
+      </Routes>    
+      </div>
   )
 }
 
