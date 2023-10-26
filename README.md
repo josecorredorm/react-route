@@ -1,8 +1,3 @@
-# React + Vite
+Proyecto para practicar React Router, la pagina es una copia selectiva de una web oficial https://quirogasoluciones.com/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Se crean secciones para practicar renderización de productos a traves de componentes y de una data interna sacada de la web oficial.

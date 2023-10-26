@@ -1,0 +1,17 @@
+.cards{
+    width: 333px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+
+}
+.cards img{
+    margin: 0;
+    padding: 0;
+    width: 333px;
+    height: 200px;
+    
+}

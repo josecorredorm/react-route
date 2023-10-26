@@ -6,7 +6,6 @@ const RenderAboutSection = ({id,title,text,img}) => {
 
     { id%2 === 0 ? (
     <> 
-    {console.log(id)}
     <div className="aboutImg"><img src={img} alt="imagen" /></div>
     <div className='aboutText'>
         <h1>{title}</h1>
